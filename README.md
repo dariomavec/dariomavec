@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo! 👋
+
+## Nice to meet you
+
+- 🔭 I’m currently working on generative art
+- 🌱 I’m always learning
+- ⚡ Fun fact: I like to chase after frisbees
 
 <!--
 **dariomavec/dariomavec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
