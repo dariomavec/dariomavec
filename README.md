@@ -6,6 +6,14 @@
 - 🌱 I’m always learning
 - ⚡ Fun fact: I like to chase after frisbees
 
+### Connect with me:
+
+[<img align="left" alt="mavec.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://mavec.me
+[linkedin]: https://linkedin.com/in/dariomavec
+
 <!--
 **dariomavec/dariomavec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
